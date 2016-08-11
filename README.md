@@ -1,2 +1,3 @@
 # city-select-mobile
-citySelect in mobile
+
+a city select plugin in mobile
